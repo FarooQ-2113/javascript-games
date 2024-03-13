@@ -7,7 +7,7 @@ This is a simple game built to test a users memory. There's a deck of cards with
 ## Challenge
 Match cards in less time with less moves.
 
-## How to Play
+## Live page
 ***[Give A try](https://farooq-2113.github.io/javascript-games/)***
 
 ## Instructions
