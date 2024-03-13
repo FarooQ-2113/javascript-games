@@ -17,4 +17,4 @@ Load this link in your browser https://memory-game-fend.herokuapp.com/
 
 ## Developer
 * Developed By Farooq Ahamed 
-* More works at Https://github.com/farooqahamed2113 
+* More works at **[Farooq Ahamed](Https://github.com/farooqahamed2113)**
