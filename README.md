@@ -17,4 +17,4 @@ Match cards in less time with less moves.
 
 ## Developer
 * Developed By Farooq Ahamed 
-* More works at **[Farooq Ahamed](Https://github.com/farooqahamed2113)**
+* More works at **[Farooq Ahamed](Https://github.com/farooq-2113)**
